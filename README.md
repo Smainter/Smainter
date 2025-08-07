@@ -55,7 +55,7 @@ Ich interessiere mich besonders für:
 ## 📫 Kontakt
 
 - 📧 [paul.sommer@volkswagen.de]
-- 🔗 [[https://de.linkedin.com/in/paul‑sommer‑98341a334]
+- 🔗 [https://de.linkedin.com/in/paul‑sommer‑98341a334]
 - 🖥️ Weitere Projekte findest du in meinen Repositories 👇
 
 ---
