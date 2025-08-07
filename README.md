@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin [dein Name] – Data Science Student bei Volkswagen
+# 👋 Hi, ich bin [Paul] – Data Science Student bei Volkswagen
 
 Willkommen auf meinem GitHub-Profil!  
 Ich studiere **Data Science dual bei Volkswagen** und arbeite an praxisnahen, datengetriebenen Projekten mit Fokus auf KI, Webentwicklung und Automatisierung.
